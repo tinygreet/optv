@@ -146,6 +146,12 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
 
 
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="异国风情",翡翠台
+http://113.117.74.21:8081/hls/67/index.m3u8
+
+
+
 #EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://epg.112114.xyz/logo/重庆新闻.png" group-title="重庆",重庆新闻高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000367
 #EXTINF:-1,tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://epg.112114.xyz/logo/重庆影视.png" group-title="重庆",重庆影视高清
@@ -179,8 +185,8 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000391
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
-
+#EXTINF:-1,tvg-id="爱自然4K" tvg-name="爱自然4K" tvg-logo="https://epg.112114.xyz/logo/爱自然4K.png" group-title="4K频道",爱自然4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K

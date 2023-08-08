@@ -26,3 +26,16 @@ CCTV5-16M-1080P,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLT
 CCTV6-16M-1080P,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8-16M-1080P,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 
+
+
+
+精选四款直播源
+
+1905电影网,http://jh.d7g.cn/live/1905.php?id=1905dy
+斗鱼4K电影,http://jh.d7g.cn/live/z/douyu.php?id=9249162
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+
+
+
+

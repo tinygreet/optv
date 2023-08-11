@@ -163,12 +163,6 @@ http://tv.redrainl.site:9500/live.m3u8?c=3
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/NHKSJ.png" group-title="国际",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://sig.112114.xyz/logo/HBOSIGNATURE.png" group-title="国际",HBOSIGNATURE
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/东森新闻台.png" group-title="国际",东森电影
-http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/东森新闻台.png" group-title="国际",东森洋片
-http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 
 
 

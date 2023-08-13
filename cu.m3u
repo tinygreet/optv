@@ -44,7 +44,7 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/cgtnSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://sig.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000363
 #EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://sig.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
-https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
 
 
 
@@ -127,7 +127,15 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 
 
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://sig.112114.xyz/logo/求索记录.png" group-title="其他",求索记录
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000397
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://sig.112114.xyz/logo/求索科学.png" group-title="其他",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://sig.112114.xyz/logo/求索动物.png" group-title="其他",求索动物
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://sig.112114.xyz/logo/求索生活.png" group-title="其他",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+
+
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://sig.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000382
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://sig.112114.xyz/logo/风云足球.png" group-title="其他",风云足球高清
@@ -142,8 +150,7 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://sig.112114.xyz/logo/文化精品.png" group-title="其他",央视文化精品高清
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://sig.112114.xyz/logo/早期教育.png" group-title="其他",早期教育高清
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
+
 
 
 
@@ -159,10 +166,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://sig.112114.xyz/logo/中天新闻台.png" group-title="国际",中天新闻台
 http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://sig.112114.xyz/logo/VIUTV.png" group-title="国际",VIUTV
-http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/NHKSJ.png" group-title="国际",NHK世界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
 
 
 

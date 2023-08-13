@@ -28,10 +28,17 @@ VIUTV,http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&
 
 
 
-求索动物 8M1080,http://[2409:8087:4402:20:1:1216:401:42]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-求索生活 8M1080,http://[2409:8087:4402:20:1:1216:401:44]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-求索科学 8M1080,http://[2409:8087:4402:20:1:1216:401:46]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-求索纪录 8M1080,http://[2409:8087:4402:20:1:1216:401:37]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+
+
+
+#EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://sig.112114.xyz/logo/求索记录.png" group-title="其他",求索记录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://sig.112114.xyz/logo/求索科学.png" group-title="其他",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://sig.112114.xyz/logo/求索动物.png" group-title="其他",求索动物
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://sig.112114.xyz/logo/求索生活.png" group-title="其他",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 
 

@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://sig.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://sig.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2财经高清
@@ -74,23 +72,15 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000340
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://sig.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://sig.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视高清
-https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://sig.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视高清
-https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://sig.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000227
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://sig.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000296
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://sig.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000341
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://sig.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视高清
-http://jh.d7g.cn/tv/migu.php?id=jxws
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://sig.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000222
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://sig.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视高清
-http://angtv.cn/test/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://sig.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
-http://angtv.cn/test/bestv.php?id=jlwshd8m/8000000
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://sig.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视高清
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://sig.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
@@ -99,6 +89,14 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000180
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://sig.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000179?AuthInfo=xxx&userid=
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://sig.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://sig.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://sig.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://sig.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://sig.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000194
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://sig.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
@@ -136,6 +134,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://sig.112114.xyz/logo/风云音乐.png" group-title="其他",风云音乐高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://sig.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000382
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://sig.112114.xyz/logo/风云足球.png" group-title="其他",风云足球高清
@@ -146,12 +146,8 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://sig.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云高清
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://sig.112114.xyz/logo/风云音乐.png" group-title="其他",风云音乐高清
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://sig.112114.xyz/logo/文化精品.png" group-title="其他",央视文化精品高清
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
-
-
 
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://sig.112114.xyz/logo/翡翠台.png" group-title="国际",翡翠台
@@ -164,10 +160,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-202153516
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="国际",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://sig.112114.xyz/logo/中天新闻台.png" group-title="国际",中天新闻台
-http://tv.redrainl.site:9500/live.m3u8?c=3
-
-
 
 
 #EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://sig.112114.xyz/logo/重庆新闻.png" group-title="重庆",重庆新闻高清

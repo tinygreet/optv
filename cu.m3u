@@ -187,10 +187,12 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000159
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000162
 
 
-#EXTINF:-1,tvg-id="CCTV1-4K" tvg-name="CCTV1-4K" tvg-logo="https://sig.112114.xyz/logo/CCTV1.png" group-title="4K频道",CCTV1-4K
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1-4K" tvg-logo="https://sig.112114.xyz/logo/CCTV1.png" group-title="4K频道",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://sig.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://sig.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV-8K
+http://159.75.85.63:8765/xxtv8k.php
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://sig.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://sig.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K

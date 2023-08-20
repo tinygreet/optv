@@ -3,6 +3,8 @@
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://sig.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1-4K" tvg-logo="https://sig.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://sig.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2财经高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000295
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://sig.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3综艺高清
@@ -11,6 +13,9 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000302
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000342
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://sig.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5体育高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000304
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://sig.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5体育高清
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://sig.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5P高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000230
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://sig.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6电影高清
@@ -132,7 +137,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://sig.112114.xyz/logo/求索生活.png" group-title="其他",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-
+#EXTINF:-1,tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://sig.112114.xyz/logo/探索纪实.png" group-title="其他",探索纪实
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
 
 
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://sig.112114.xyz/logo/风云音乐.png" group-title="其他",风云音乐高清
@@ -188,8 +194,7 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000159
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000162
 
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1-4K" tvg-logo="https://sig.112114.xyz/logo/CCTV1.png" group-title="4K频道",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://sig.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://sig.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV-8K

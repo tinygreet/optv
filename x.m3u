@@ -166,7 +166,18 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 
 
 
-
+#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="重庆",重庆新闻高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐.png" group-title="重庆",重庆文体娱乐高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="重庆新农村高清" tvg-name="重庆新农村高清" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="重庆",重庆新农村高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="重庆",重庆少儿高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="重庆",重庆科教高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+#EXTINF:-1,tvg-id="重庆移动高清" tvg-name="重庆移动高清" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="重庆",重庆移动高清
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="4K频道",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3

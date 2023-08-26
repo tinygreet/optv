@@ -201,5 +201,5 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="4K频道",北京纪实8K
 http://159.75.85.63:6798
-#EXTINF:-1,tvg-id="纪录片" tvg-name="纪录片" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="4K频道",纪录片8K
+#EXTINF:-1,tvg-id="江苏8k" tvg-name="江苏8k" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="4K频道",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8

@@ -1,3 +1,7 @@
+
+
+
+
 欢笑剧场4K,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV4K,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 CCTV16-4K,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
@@ -158,3 +162,190 @@ SiTV游戏风云,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yxfyHD/__op/defaul
 CHC-电影,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC-动作电影,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC-家庭影院,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+
+
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8270498&extra=page%3D1&page=1&mobile=no
+
+
+频道数130+,不全,欢迎补充!
+
+SiTV欢笑剧场 4K,hxjc_4K
+CCTV 4K,CCTV4K ===感谢@ken1994补充
+CCTV16 4K,CCTV16_4k ===感谢@ken1994补充
+
+CCTV-1 高清,cctv1HD
+CCTV-2 高清,cctv2HD
+CCTV-3 高清,cctv3HD
+CCTV-4 高清,cctv4HD
+CCTV-5 高清,cctv5HD
+CCTV-5+ 高清,cctv5SportHD
+CCTV-6 高清,cctv6HD
+CCTV-7 高清,cctv7HD
+CCTV-8 高清,cctv8HD
+CCTV-9 高清,cctv9HD
+CCTV-10 高清,cctv10HD
+CCTV-11 高清,cctv11HD
+CCTV-12 高清,cctv12HD
+CCTV-13 高清,CCTVNewsHD
+CCTV-14 高清,cctvseHD ===感谢@guoma提醒
+CCTV-15 高清,cctv15HD
+CCTV-16 高清,cctv16HD
+CCTV-17 高清,cctv17HD
+
+东南卫视高清,dongnanHD
+东方卫视高清,shanghaiHD
+云南卫视高清,yunnanSD
+内蒙古卫视,neimengkuSD
+北京卫视高清,beijingHD
+吉林卫视高清,jilinHD
+四川卫视高清,sichuanHD
+天津卫视高清,tianjinHD
+宁夏卫视,ningxia
+安徽卫视高清,anhuiSD
+山西卫视,shanxiSD
+广东卫视高清,guangdongHD
+广西卫视高清,guangxiHD
+新疆卫视,xinjiangSD
+江苏卫视高清,jiangsuHD
+江西卫视高清,jiangxiHD
+河北卫视高清,hebeiSD
+河南卫视高清,henanHD
+浙江卫视高清,zhejiangHD
+海南卫视高清,hainanSD
+深圳卫视高清,shenzhenHD
+湖北卫视高清,hubeiSD
+湖南卫视高清,hunanHD
+西藏卫视,xizangSD
+贵州卫视高清,guizhouHD
+辽宁卫视高清,liaoningHD
+重庆卫视高清,chongqingHD
+青海卫视,qinghaiSD
+黑龙江卫视高清,heilongjiangHD
+三沙卫视,sanshaSD
+教育卫视,sdjiaoyuSD
+兵团卫视,bingtuanSD
+
+咔酷少儿,bjkakuSD
+金鹰卡通高清,jinyingSD
+
+重庆新闻高清,cqtvnewsHD或CQTVNewsHD
+重庆科教高清,cqtvkejiaoHD或CQTVkejiaoHD
+重庆影视高清,cqyingshiHD
+重庆文体娱乐高清,cqwtylHD
+重庆少儿高清,cqseHD
+重庆新农村高清,cqggncHD ===感谢@tvrofans补充
+重庆时尚生活高清,cqssgwHD
+重庆汽摩高清,cqcarSD
+重庆社会与法HD,cqtvtrendyHD或CQTVTrendyHD
+重庆移动高清,mryyHD
+
+重广融媒,cqrongmei
+爱看导视,aikanHD
+合川综合,hechuan
+长寿综合,changshou
+酉阳综合,youyang
+秀山综合,xiushan
+黔江综合,qianjiang
+巫山综合,wushanzhSD
+                           以下频道感谢@Phineario的补充
+涪陵综合,fulingzh
+江津综合,     ？？？？？  jiangjinHD
+铜梁综合,tongliangzongheHD
+荣昌综合,rongchangHD
+巫溪综合,wlzh
+云阳综合，jiangjinHD
+
+
+
+CETV-1,cetv-1SD
+CETV-4,cetv-4SD
+中学生,qicai
+发现之旅,faxian
+老故事,gushi
+书画,shuhua
+摄影,sheying
+国学,guoxue
+靓妆,liang
+网络棋牌,qipai
+新动漫,dongman
+
+优优宝贝(原:游戏竞技),youxi
+中华特产,techan
+环球奇观(原:极速汽车),car
+生态环境,shengtai
+四海钓鱼,diaoyu
+中国气象,tianqiSD
+车迷频道,doxtv
+CGTN,cgtnSD
+求索纪录高清,qsjlHD
+百姓健康,jiankangSD
+快乐垂钓高清,klcdHD
+早期教育,zaojiaoHD
+东方财*,dfcj
+证券服务,jiazheng
+收藏天下,soucang
+财富天下,caifu
+天元围棋,weiqi
+先锋乒羽,xianfeng
+环球旅游,huanqiulvyou
+
+纪实科教高清,bjayjsSD
+
+SiTV都市剧场高清,dsjcHD
+SiTV魅力足球高清,mlzqHD
+SiTV动漫秀场高清,dmxcHD
+SiTV游戏风云高清,yxfyHD
+SiTV生活时尚,shenghuo
+SiTV法治天地,fazhi
+SiTV金色学堂,jinse
+
+CHC高清电影,chcgqdyHD
+CHC动作电影,chcdzdyHD
+CHC家庭影院,chcjtyyHD
+
+CCTV风云剧场,shandongHD
+CCTV风云剧场高清,fyjcHD
+CCTV风云音乐高清,fyyyHD
+CCTV风云足球高清,fyzqHD
+CCTV怀旧剧场高清,hjjcHD
+CCTV第一剧场高清,diyijuchangHD
+CCTV兵器科技高清,bqkjHD
+CCTV央视文化精品,yswhHD
+CCTV高尔夫网球,golfHD
+CCTV央视台球,ystqHD
+CCTV女性时尚,nvxing
+
+家有购物,jygw
+央广购物,yggw
+风尚购物,fsgw
+家家购物,jjgw
+#以下频道或已下线,当前为CCTV-1
+CBN每日影院,mryyHD
+CBN幸福剧场,xfjcHD
+CBN幸福娱乐,xfylHD
+CBN风尚生活,fsshHD
+
+感谢weicangli的无私奉献!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

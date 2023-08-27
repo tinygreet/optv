@@ -166,8 +166,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
 
 #EXTINF:-1,tvg-id="铜梁综合" tvg-name="铜梁综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/tinygreet/optv/main/tv/铜梁.png" group-title="重庆",铜梁综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/tongliangzongheHD/__op/default/__f//index.m3u8
-
+http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/tongliangzongheHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="重庆",重庆社会与法高清
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="重庆",重庆时尚生活高清

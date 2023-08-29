@@ -1,3 +1,20 @@
+
+
+
+
+
+
+烂大街的源，大家免费拿去吧，1个币虽然不值钱，但是这种拿别人的东西来卖的也不是什么好东西。
+CCTV1-4K,http://[2409:8087:2004:20:2800:0:df6e:ec21]/wh7f454c46tw3997260203_1403144048/ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?
+
+
+
+icpid=4&RTS=1678666195&from=40&popid=40&hms_devid=2294&prioritypopid=40&vqe=3
+
+
+
+
+
 CCTV4K超高清，http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 
 CCTV4k（高清标）,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?
@@ -18,7 +35,6 @@ CCTV8K超高清，http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221
 随机4K//CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 随机4K//CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 随机4K//CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
-随机4K//http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV1-16M,http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 
 

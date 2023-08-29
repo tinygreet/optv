@@ -173,6 +173,20 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWORLD.png" group-title="国际",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="国际",三立新闻
+https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="国际",寰宇新闻
+https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="国际",中视新闻
+https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="国际",东森财经新闻台
+https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="国际",中天新闻
+https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1,tvg-id="KBSNEWS" tvg-name="KBSNEWS" tvg-logo="https://live.fanmingming.com/tv/KBSNEWS.png" group-title="国际",KBSNEWS
+https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+#EXTINF:-1,tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际",NBCNEWS
+https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
 
 

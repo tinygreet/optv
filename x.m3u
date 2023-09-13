@@ -226,10 +226,6 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,tvg-id="斗鱼4K" tvg-name="斗鱼4K" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K频道",斗鱼4K
 http://159.75.85.63:35455/douyu/9249162
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/aishang4k.png" group-title="4K频道",爱上4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="4K频道",北京纪实8K
-http://159.75.85.63:6798
 #EXTINF:-1,tvg-id="江苏8k" tvg-name="江苏8k" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="4K频道",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 

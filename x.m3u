@@ -205,7 +205,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 
-#EXTINF:-1,tvg-id="广东4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="4K频道",纯享4K
+#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="4K频道",广东4K
 http://220.231.188.200:8089/hls/30/index.m3u8
 
 #EXTINF:-1,tvg-id="咪咕直播4K-1" tvg-name="咪咕直播4K-1" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕直播4K-1

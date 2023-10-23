@@ -105,8 +105,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/o
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?
 #EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="卫视",上海教育台
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="卫视",东方影视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="卫视",上海教育
@@ -204,10 +202,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/32212282
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-
-#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="4K频道",广东4K
-http://220.231.188.200:8089/hls/30/index.m3u8
-
 #EXTINF:-1,tvg-id="咪咕直播4K-1" tvg-name="咪咕直播4K-1" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1,tvg-id="咪咕直播4K-2" tvg-name="咪咕直播4K-2" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕直播4K-2
@@ -220,14 +214,10 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1,tvg-id="爱自然4K" tvg-name="爱自然4K" tvg-logo="https://live.fanmingming.com/tv/LOVENATURE.png" group-title="4K频道",爱自然4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-id="CLARITY4K" tvg-name="CLARITY4K" tvg-logo="https://live.fanmingming.com/tv/CLARITY4K.png" group-title="4K频道",Clarity4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K频道",华数4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K频道",4K测试
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="Loupe4K" tvg-name="Loupe4K" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K频道",Loupe4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,tvg-id="斗鱼4K" tvg-name="斗鱼4K" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K频道",斗鱼4K
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="江苏8k" tvg-name="江苏8k" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="4K频道",江苏8K测试

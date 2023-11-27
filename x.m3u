@@ -116,8 +116,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/CHC高清电影.png" group-title="影视",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4K电影.png" group-title="影视",华数高清
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/CCTV风云剧场.png" group-title="影视",风云剧场高清
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/CCTV第一剧场.png" group-title="影视",第一剧场高清
@@ -174,8 +173,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4K电影.png" group-title="4K频道",华数4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4K电影.png" group-title="4K频道",4K测试
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+
 #EXTINF:-1,tvg-id="江苏8k" tvg-name="江苏8k" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4K.png" group-title="4K频道",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 

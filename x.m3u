@@ -41,7 +41,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/CGTN.png" group-title="央视",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/CGTN纪录.png" group-title="央视",CGTN记录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/CGTN纪录.png" group-title="央视",CGTN记录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 
@@ -176,8 +176,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4K电影.png" group-title="4K频道",4K测试
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="斗鱼4K" tvg-name="斗鱼4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4K电影.png" group-title="4K频道",斗鱼4K
-http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="江苏8k" tvg-name="江苏8k" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4K.png" group-title="4K频道",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 

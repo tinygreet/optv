@@ -190,8 +190,10 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-name="4K测试" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/4k修复.png" group-title="4K频道",4K测试
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱自然4K" tvg-name="爱自然4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/LoveNature.png" group-title="4K频道",爱自然4K
+#EXTINF:-1,tvg-id="爱自然4K" tvg-name="爱自然4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/LoveNature4K.png" group-title="4K频道",爱自然4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-id="Clarity4K" tvg-name="Clarity4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/Clarity4K.png" group-title="4K频道",Clarity4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实8K.png" group-title="4K频道",北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="江苏8k" tvg-name="江苏8k" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/江苏8K.png" group-title="4K频道",江苏8K测试

@@ -86,7 +86,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ot
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视高清
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001225/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视高清
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1965546073_-1364170119/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/logo/海南卫视.png" group-title="卫视",海南卫视高清

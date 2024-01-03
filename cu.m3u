@@ -100,23 +100,23 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/o
 
 
 
-#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆新闻频道.png" group-title="重庆",重庆新闻高清
+#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆新闻新.png" group-title="重庆",重庆新闻高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000367
-#EXTINF:-1,tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆社会与法.png" group-title="重庆",重庆社会与法高清
+#EXTINF:-1,tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆社会与法新.png" group-title="重庆",重庆社会与法高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000375
-#EXTINF:-1,tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆时尚生活.png" group-title="重庆",重庆时尚生活高清
+#EXTINF:-1,tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆时尚生活新.png" group-title="重庆",重庆时尚生活高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000369
-#EXTINF:-1,tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆文体娱乐.png" group-title="重庆",重庆文体娱乐高清
+#EXTINF:-1,tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆文体娱乐新.png" group-title="重庆",重庆文体娱乐高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000370
-#EXTINF:-1,tvg-id="重庆农村" tvg-name="重庆新农村高清" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆新农村.png" group-title="重庆",重庆新农村高清
+#EXTINF:-1,tvg-id="重庆农村" tvg-name="重庆新农村高清" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆新农村新.png" group-title="重庆",重庆新农村高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000376
-#EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆少儿频道.png" group-title="重庆",重庆少儿高清
+#EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆少儿新.png" group-title="重庆",重庆少儿高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374
-#EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆科教频道.png" group-title="重庆",重庆科教高清
+#EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆科教新.png" group-title="重庆",重庆科教高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373
-#EXTINF:-1,tvg-id="重庆移动高清" tvg-name="重庆移动高清" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆移动.png" group-title="重庆",重庆移动高清
+#EXTINF:-1,tvg-id="重庆移动高清" tvg-name="重庆移动高清" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆移动新.png" group-title="重庆",重庆移动高清
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000384
-#EXTINF:-1,tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆影视频道.png" group-title="重庆",重庆影视
+#EXTINF:-1,tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/重庆影视新.png" group-title="重庆",重庆影视
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000372
 
 

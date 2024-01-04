@@ -155,8 +155,6 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV风云音乐.png" group-title="其他",风云音乐高清
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,tvg-id="华数风尚音乐" tvg-name="华数风尚音乐" tvg-logo="https://epg.112114.eu.org/logo/浙江风尚音乐.png" group-title="其他",风尚音乐
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/快乐垂钓.png" group-title="其他",快乐垂钓高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV风云足球.png" group-title="其他",风云足球高清
@@ -180,13 +178,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/华数4K.png" group-title="4K频道",华数4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/4k修复.png" group-title="4K频道",4K修复
+#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/4K修复.png" group-title="4K频道",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1,tvg-id="爱自然4K" tvg-name="爱自然4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/LoveNature4K.png" group-title="4K频道",爱自然4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="Clarity4K" tvg-name="Clarity4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/Clarity4K.png" group-title="4K频道",Clarity4K
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实8K.png" group-title="4K频道",北京纪实8K
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/北京纪实8K.png" group-title="4K频道",北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="江苏8k" tvg-name="江苏8k" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/江苏8K.png" group-title="4K频道",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8

@@ -1,3 +1,6 @@
+
+
+
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 
@@ -129,28 +132,28 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3
 #EXTINF:-1,tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/全纪实.png" group-title="探索纪录",探索纪实
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/金鹰纪实.png" group-title="探索纪录",金鹰纪实
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001230/index.m3u8?
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/纪实人文.png" group-title="探索纪录",纪实人文
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001019/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001019/index.m3u8?
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/北京纪实.png" group-title="探索纪录",北京纪实
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/金色学堂.png" group-title="上海",金色学堂
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001194/index.m3u8?
 #EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/东方影视.png" group-title="上海",东方影视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海都市.png" group-title="上海",上海都市
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海教育.png" group-title="上海",上海教育
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001268/index.m3u8?
 #EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海外语.png" group-title="上海",上海外语
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001128/index.m3u8?
 #EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海新闻.png" group-title="上海",上海新闻
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/五星体育.png" group-title="上海",五星体育
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+http://[2409:8087:1e03:21::2]:6610/cms001/ch00000090990000001018/index.m3u8?
 
 
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV风云音乐.png" group-title="其他",风云音乐高清
@@ -226,3 +229,5 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/AlJazeera.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+

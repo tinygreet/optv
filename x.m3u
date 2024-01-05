@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV1.png" group-title="央视",CCTV1综合高清
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV2.png" group-title="央视",CCTV2财经高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV3.png" group-title="央视",CCTV3综艺高清
@@ -229,5 +229,31 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/AlJazeera.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CNNNews.png" group-title="国际",CNN新闻
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/FoxLive.png" group-title="国际",FOX新闻
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CNA.png" group-title="国际",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica" tvg-name="america" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/BBCAMERICA.png" group-title="国际",BBC美洲
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CBS.png" group-title="国际",CBS新闻
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="CBNNews" tvg-name="CBNNews" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CBNNEWS.png" group-title="国际",CBN新闻
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GBNews" tvg-name="GB News" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/GB-NEWS.png" group-title="国际",GB新闻
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/RT.png" group-title="国际",RT新闻
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/RTDoc.png" group-title="国际",RT纪录
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/BRICS.png" group-title="国际",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="TalkTV" tvg-name="TalkTV" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/TALKTV.png" group-title="国际",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+#EXTINF:-1 tvg-id="TRTWorld" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/TRT_World.jpg" group-title="国际",TRT世界
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/TaiwanPlus.jpg" group-title="国际",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 

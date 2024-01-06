@@ -223,6 +223,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/凤凰卫视香港台.png" group-title="国际",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/翡翠台.png" group-title="国际",翡翠台
+http://42.186.64.52:5001/site/gudou.php?id=1350_4500
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/NHKWorld.png" group-title="国际",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CNA.png" group-title="国际",亚洲新闻台
@@ -233,15 +235,6 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/FoxLive.png" group-title="国际",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CNA.png" group-title="国际",CNA新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica" tvg-name="america" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/BBCAMERICA.png" group-title="国际",BBC美洲
-https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CBS.png" group-title="国际",CBS新闻
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-id="CBNNews" tvg-name="CBNNews" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CBNNEWS.png" group-title="国际",CBN新闻
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GBNews" tvg-name="GB News" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/GB-NEWS.png" group-title="国际",GB新闻
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/RT.png" group-title="国际",RT新闻
@@ -254,6 +247,4 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/TRT_World.png" group-title="国际",TRT世界
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/TaiwanPlus.png" group-title="国际",台湾Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 

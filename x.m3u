@@ -71,7 +71,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/贵州卫视.png" group-title="卫视",贵州卫视高清
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/四川卫视.png" group-title="卫视",四川卫视高清
-http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/云南卫视.png" group-title="卫视",云南卫视高清
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8?
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/黑龙江卫视.png" group-title="卫视",黑龙江卫视高清
@@ -140,20 +140,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3
 
 
 
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/金色学堂.png" group-title="上海",金色学堂
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8?
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/东方影视.png" group-title="上海",东方影视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
-#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海都市.png" group-title="上海",上海都市
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
-#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海教育.png" group-title="上海",上海教育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8?
-#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海外语.png" group-title="上海",上海外语
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
-#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海新闻.png" group-title="上海",上海新闻
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/五星体育.png" group-title="上海",五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
+
 
 
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV风云音乐.png" group-title="其他",风云音乐高清
@@ -168,8 +155,8 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1,tvg-id="bilibili" tvg-name="bilibili" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/bilibili.png" group-title="其他",Bilibili
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
-
-
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/游戏风云.png" group-title="其他",游戏风云
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CCTV4K.png" group-title="4K频道",CCTV4K超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
@@ -215,14 +202,32 @@ rtsp://123.147.113.4:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&
 rtsp://123.147.113.4:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
 
 
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/金色学堂.png" group-title="上海",金色学堂
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8?
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/东方影视.png" group-title="上海",东方影视
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海都市.png" group-title="上海",上海都市
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
+#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海教育.png" group-title="上海",上海教育
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8?
+#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海外语.png" group-title="上海",上海外语
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/上海新闻.png" group-title="上海",上海新闻
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/五星体育.png" group-title="上海",五星体育
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/凤凰卫视中文台.png" group-title="国际",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/凤凰卫视资讯台.png" group-title="国际",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/凤凰卫视香港台.png" group-title="国际",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/翡翠台.png" group-title="国际",翡翠台
 http://42.186.64.52:5001/site/gudou.php?id=1350_4500
+
+
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/NHKWorld.png" group-title="国际",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gitee.com/tinygreet/optv/raw/main/pic/CNA.png" group-title="国际",亚洲新闻台
